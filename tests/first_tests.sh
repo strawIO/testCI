@@ -11,5 +11,8 @@ clean
 
 meteor create hello
 cd hello
+# try to add and remove a package
+meteor add velocityjs:velocityjs
+meteor remove velocityjs:velocityjs
 
 clean
